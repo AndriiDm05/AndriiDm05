@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming, studying
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to develop my career, knowledge, skills
-
+- My hobby is playing chess (1. category) and swimming
