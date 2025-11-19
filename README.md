@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndriiDm05
+- 👋 Hi, I’m @AndriiDm05, Intern Software Engineer
 - 👀 I’m interested in programming, studying
 - 🌱 I’m currently learning React.js, passing courses in Codecademy platform
 - 💞️ I’m looking to develop my career, knowledge, skills
