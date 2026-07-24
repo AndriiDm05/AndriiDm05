@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @AndriiDm05, Intern Software Engineer
-- 👀 I’m interested in programming, studying
-- 🌱 I’m currently learning React.js, passing courses in Codecademy platform
-- 💞️ I’m looking to develop my career, knowledge, skills
-- My hobby is playing chess (1. category) and swimming
-- I have some experience programing in languages such as HTML5, CSS3, JavaScript, JQuery, Bootstrap, SQL, C++, C#, Python (with Flask), PHP
-- Besides, I have experience in working with Visual Studio Code, Notepad++, Visual Studio 2022, phpMyAdmin, Navicat, Figma, Canva, Excel
+Software Engineer | React • TypeScript • .NET
+Student @ AGH 🎓 | Building web apps & exploring AI 🤖 | ♟️ Chess
